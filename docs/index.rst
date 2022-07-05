@@ -2,7 +2,9 @@
 ===================
 EasyD Documentation
 ===================
+This is quick guide to understand how to do something in EasyD. New and improved content will be added time to time.
 
+=============================
 How to create a Media Screen?
 =============================
 
@@ -33,6 +35,7 @@ You can see a new media screen in the list.
 
 If you still have questions *Watch Video Guide*
 
+===============================
 How to create a Product Screen?
 ===============================
 
@@ -65,7 +68,7 @@ information
 
 Product Screen will be created, now visit My Design in the sidebar menu.
 You can see a new Product Screen in the list.
-
+==============================
 How to create a Notice Screen?
 ==============================
 
@@ -91,6 +94,7 @@ screen
 Notice Screen will be created, now visit My Design in the sidebar menu.
 You can see a new Notice Screen in the list.
 
+=============================
 How to create an info Screen?
 =============================
 
