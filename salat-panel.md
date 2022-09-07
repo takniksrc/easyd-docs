@@ -11,7 +11,7 @@ This is unique feature of salat panel which makes it possible for people living 
 ### 2 - Manual Time Set
 This button allows to set fixed time for prayers in a mosque. For example, if Zuhar is offered at fixed time every day then this button can be used to set it. 
 
-### 3 - Calendat Time Set
+### 3 - Calendar Time Set
 This button works along with 7 i.e. Calendar button. It can be used to direct salar panel to use time from prayer calendar directly. It requires calendar to be configured properly.
 
 ### 4 - Salat Panel Name
@@ -38,3 +38,7 @@ Each prayer box has option to define small message to be displayed. This can be 
 ### 11 - Clock and Date
 Clock and date box shows current time and date for the viewer.
 
+## How to set yearly schedule?
+EasyD Salat Panel provides an easy way to configure prayer timings by using an yearly prayer calendar. This is done by performing these two steps,
+1. Upload yearly prayer calendar 
+2. Setting prayers times by using calendar button
