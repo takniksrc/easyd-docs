@@ -1,4 +1,4 @@
-#Salat Panel 
+# Salat Panel 
 EasyD Salat Panel is verstile prayer clock that can be used to manage prayer timings communication in a mosque environment. The beautiful designs which are increasing day by day give a great look to mosque and can be chosen as per the theme of the mosque itself. 
 
 Here are details of salat panel edit screen which highlights useful features that are part of the solution.
