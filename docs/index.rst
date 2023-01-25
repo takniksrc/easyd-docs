@@ -821,6 +821,7 @@ Our team will make every effort to respond to user feedback.
    .. :maxdepth: 2
    .. :caption: Contents:
    Home <self>
+   usage
 
 .. Indices and tables
 .. ==================
