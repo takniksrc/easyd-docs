@@ -1,5 +1,5 @@
-Media Gallery
-=============
+Media Gallery?
+==============
 
 Where can I find the Media Gallery?/How can I open EasyD Media Gallery?
 -----------------------------------------------------------------------

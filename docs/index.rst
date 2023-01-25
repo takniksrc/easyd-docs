@@ -8,14 +8,14 @@ Contents
 .. toctree::
    .. :maxdepth: 2
    .. :caption: Contents:
-   Get Started <self>
+   Home <self>
    mediaScreen
    productScreen
    noticeScreen
    infoScreen
    salatPanelScreen
-   slideshow
    screen
+   slideshow
    mediaGallery
    display
    users
