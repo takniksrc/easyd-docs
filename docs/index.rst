@@ -9,13 +9,8 @@ Contents
    .. :maxdepth: 2
    .. :caption: Contents:
    Get Started <self>
-   mediaScreen
-   productScreen
-   noticeScreen
-   infoScreen
-   salatPanelScreen
-   slideshow
    screen
+   slideshow
    mediaGallery
    display
    users

@@ -1,5 +1,8 @@
+Slideshow
+==========
+
 How to create a Slideshow?
-==========================
+--------------------------
 
 Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To create Slideshow, follow these
