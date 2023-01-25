@@ -801,10 +801,16 @@ Our team will make every effort to respond to user feedback.
    :width: 0.30729in
    :height: 0.30729in
 
-.. include:: ./mediascreen.rst
+ index
 
 .. toctree::
-      
+   :maxdepth: 2
+   :caption: Contents:
    Home <self>
-   mediascreen
-   api
+
+.. Indices and tables
+.. ==================
+
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
