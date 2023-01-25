@@ -4,7 +4,7 @@ How to give feedback in EasyD?
 User’s feedback will let us improve the customer experience with EasyD.
 We warmly welcome feedbacks
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click feedback in sidebar menu
 

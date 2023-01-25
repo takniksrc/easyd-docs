@@ -7,7 +7,7 @@ How to set/add a display in EasyD?
 After creating a screen from templates, user has to attach a display
 device to display the screen.To set/add a display, follow these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Displays in sidebar menu
 
@@ -31,7 +31,7 @@ How to edit a display in EasyD?
 After creating a screen from templates, user has to attach a display
 device to display the screen.To set/add a display, follow these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Displays in sidebar menu
 
@@ -55,7 +55,7 @@ A dialogue box will appear, update the details
 How to delete a display in EasyD?
 ---------------------------------
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Displays in sidebar menu
 
@@ -73,7 +73,7 @@ Before pairing a display, the user has to add a display. While adding a
 display, user has a choice to pair it, but they can also pair and unpair
 later
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Displays in sidebar menu
 
@@ -94,7 +94,7 @@ Before pairing a display, the user has to add a display. While adding a
 display user has a choice to pair it, but they can also pair and unpair
 later
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Displays in sidebar menu
 

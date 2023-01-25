@@ -8,7 +8,7 @@ To manage workload, EasyD has a feature to add multiple users with
 different roles to manage workload easily. To add user, follow these
 simple steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Users in sidebar menu
 
@@ -29,7 +29,7 @@ To manage workload, EasyD has a feature to add multiple users with
 different roles to manage workload easily. To edit user’s role follow
 these simple steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Users in sidebar menu
 
@@ -49,7 +49,7 @@ To manage workload, EasyD has a feature to add multiple users with
 different roles to manage workload easily. To delete user’s role, follow
 these simple steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Users in sidebar menu
 

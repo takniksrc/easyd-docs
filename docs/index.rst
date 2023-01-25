@@ -1,6 +1,6 @@
 EasyD Documentation
 ===================
-This is quick guide to understand how to do something in EasyD. New and improved content will be added time to time.
+This is quick guide to understand how to do something in `EasyD app <https://app.easyd.io/>`__. New and improved content will be added time to time.
 
 Contents
 --------

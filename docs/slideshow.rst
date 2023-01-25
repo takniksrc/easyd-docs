@@ -8,7 +8,7 @@ Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To create Slideshow, follow these
 steps:
 
-1.  Login to *EasyD app*
+1.  Login to `EasyD app <https://app.easyd.io/>`__
 
 2.  Click Slideshow in sidebar menu
 
@@ -41,7 +41,7 @@ Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To edit slideshow, follow these
 steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 
@@ -63,7 +63,7 @@ Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To add new slide to Slideshow, follow
 these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 
@@ -88,7 +88,7 @@ Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To edit a slide in slideshow, follow
 these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 
@@ -113,7 +113,7 @@ Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To delete a slide in slideshow,
 follow these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 

@@ -23,7 +23,7 @@ How can I edit my site information in EasyD?
 After creating a site, users can edit site information anytime. To edit
 site information, just follow these steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Settings in sidebar menu
 
@@ -37,7 +37,7 @@ How can I edit/update my site name in EasyD?
 After creating a site, users can edit site information anytime. To edit
 site name, just follow these steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Settings in sidebar menu
 
@@ -51,7 +51,7 @@ How can I edit/update my site address in EasyD?
 After creating a site, users can edit site information anytime. To edit
 site address just follow these steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Settings in sidebar menu
 
@@ -65,7 +65,7 @@ How can I edit/update my site category in EasyD?
 After creating a site, users can edit site information anytime. To edit
 site category, just follow these steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Settings in sidebar menu
 
@@ -80,7 +80,7 @@ EasyD offers both 12h and 24h time format so users can manage time
 according to their audience needs. To switch time format, follow these
 steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Settings in sidebar menu
 
@@ -95,7 +95,7 @@ How can I update/change input language in EasyD?
 Currently EasyD offers upto Three input languages. Users can switch
 between anytime. To change language, follow these steps
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Settings in sidebar menu
 
@@ -109,7 +109,7 @@ How can I delete a site in EasyD?
 Deleting a site without attention can lead to important data loss. Be
 careful while deleting any site. Follow the steps below to delete a site
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click Settings in sidebar menu
 

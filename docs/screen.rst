@@ -7,8 +7,7 @@ How to create a Media Screen?
 Media Screen allows users to use pre-made videos and photos for digital
 signage. To create Media Screen follow these steps:
 
-1. Login to `EasyD <https://app.easyd.io/>`__
-`app <https://app.easyd.io/>`__
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 
@@ -39,7 +38,7 @@ Notice Screen is designed to replace conventional notice boards. That
 allows users to display announcements in the form of text or image. To
 create Notice Screen, follow these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 
@@ -66,7 +65,7 @@ suitable for daily tasks list, daily announcements and schedule. Info
 Screen also has multiple layouts and color themes.To create info Screen,
 follow these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 
@@ -96,7 +95,7 @@ Salat Panel is a digital prayer clock widely used in mosques. Salat
 Panel has multiple attractive design templates with very convenient and
 user friendly interface.To create info Screen, follow these steps:
 
-1. Login to *EasyD app*
+1. Login to `EasyD app <https://app.easyd.io/>`__
 
 2. Click My Design in sidebar menu
 
