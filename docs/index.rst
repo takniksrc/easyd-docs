@@ -4,7 +4,7 @@ This is quick guide to understand how to do something in EasyD. New and improved
 
 
 How to create a Media Screen?
-=============================
+-----------------------------
 
 Media Screen allows users to use pre-made videos and photos for digital
 signage. To create Media Screen follow these steps:
@@ -35,7 +35,7 @@ If you still have questions *Watch Video Guide*
 
 
 How to create a Product Screen?
-===============================
+-------------------------------
 
 Product Screen is mostly suitable for displaying product information
 with multiple templates. These products can be anything from grocery
