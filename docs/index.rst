@@ -4,7 +4,7 @@ This is quick guide to understand how to do something in EasyD. New and improved
 
 
 How to create a Media Screen?
------------------------------
+=============================
 
 Media Screen allows users to use pre-made videos and photos for digital
 signage. To create Media Screen follow these steps:
@@ -35,7 +35,7 @@ If you still have questions *Watch Video Guide*
 
 
 How to create a Product Screen?
--------------------------------
+===============================
 
 Product Screen is mostly suitable for displaying product information
 with multiple templates. These products can be anything from grocery
@@ -157,6 +157,8 @@ screen
 Salat Screen will be created, now visit My Design in the sidebar menu.
 You can see a new Salat Panel Screen in the list.
 
+============================================================
+
 How to Logout of EasyD?
 =======================
 
@@ -166,8 +168,13 @@ How to Logout of EasyD?
 
 3. Click Logout button
 
+============================================================
+
+Screen
+======
+
 Where can I find a published screen?
-====================================
+------------------------------------
 
 1. Click My Design in side bar menu
 
@@ -175,7 +182,7 @@ Where can I find a published screen?
 with all details
 
 Where can I find a Drafted screen?
-==================================
+----------------------------------
 
 1. Click My Design in side bar menu
 
@@ -183,7 +190,7 @@ Where can I find a Drafted screen?
 with all details
 
 How to delete a screen?
-=======================
+-----------------------
 
 Deleting a screen without attention can lead to important data loss. Be
 careful while deleting any screen.
@@ -198,7 +205,7 @@ have multiple options
 4. Click delete option and confirm deletion
 
 How to edit a screen?
-=====================
+---------------------
 
 To make design error free, every screen has edit options.
 
@@ -212,7 +219,7 @@ you have multiple options
 4. Click edit option, it will take you to the actual screen editor
 
 How to view a screen?
-=====================
+---------------------
 
 1. Click My Design in side bar menu
 
@@ -223,26 +230,11 @@ have multiple options
 
 4. Click view option, it will generate a preview
 
-How to add a new site?
-======================
-
-To categorize and manage screens, EasyD has added a site option, under
-which every site user can create multiple screens.
-
-1. Go to site name dropdown in top-left corner
-
-| 2. Click drop down, and click add new site option with + icon.
-| 3. Enter name for site
-
-4. Enter address and select site type
-
-5. Hit submit, a new site will be created. You can switch b/w site by
-clicking on same dropdown described at (1)
-
-============================================================
+Media Gallery?
+==============
 
 Where can I find the Media Gallery?/How can I open EasyD Media Gallery?
-=======================================================================
+-----------------------------------------------------------------------
 
 Media Gallery allows users to upload, manage and use images and videos.
 
@@ -253,7 +245,7 @@ Media Gallery allows users to upload, manage and use images and videos.
 3. Upload or manage images and videos
 
 How to upload images to EasyD Media Gallery?
-============================================
+--------------------------------------------
 
 Media Gallery allows users to upload, manage and use images and videos.
 
@@ -269,7 +261,7 @@ want to upload and hit open
 5. Uploaded images will appear in gallery
 
 How to upload Videos to EasyD Media Gallery?
-============================================
+--------------------------------------------
 
 Media Gallery allows users to upload, manage and use images and videos.
 
@@ -285,7 +277,7 @@ want to upload and hit open
 5. Uploaded videos will appear in gallery
 
 What is the recommended size for an image?
-==========================================
+------------------------------------------
 
 Recommended sizes for images are following
 
@@ -294,7 +286,7 @@ Recommended sizes for images are following
 2. 1280x720 px
 
 What is the recommended size for a video?
-=========================================
+------------------------------------------
 
 Recommended sizes for videos are following
 
@@ -303,7 +295,7 @@ Recommended sizes for videos are following
 2. 1280x720 px
 
 How to delete an image in EasyD Media Gallery?
-==============================================
+----------------------------------------------
 
 1. Login to `EasyD app <https://app.easyd.io/>`__
 
@@ -319,7 +311,7 @@ How to delete an image in EasyD Media Gallery?
 6. Confirm the deletion
 
 How to delete a video in EasyD Media Gallery?
-=============================================
+---------------------------------------------
 
 1. Login to `EasyD app <https://app.easyd.io/>`__
 
@@ -335,7 +327,7 @@ How to delete a video in EasyD Media Gallery?
 6. Confirm the deletion
 
 How can I search an image/video in the Media Gallery?
-=====================================================
+-----------------------------------------------------
 
 Users can search in images and videos by their name.
 
@@ -350,7 +342,7 @@ Users can search in images and videos by their name.
 5. Filtered results will appear on screen
 
 Can I filter images and videos separately?
-==========================================
+------------------------------------------
 
 Yes, users can filter images and videos.
 
@@ -401,7 +393,7 @@ Slideshow will be created, now visit My Design in the sidebar menu. You
 can see a new Slideshow in the list.
 
 How to edit/update a Slideshow?
-===============================
+-------------------------------
 
 Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To edit slideshow, follow these
@@ -423,7 +415,7 @@ steps:
 7. Slideshow will be updated
 
 How to add a new slide to Slideshow?
-====================================
+------------------------------------
 
 Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To add new slide to Slideshow, follow
@@ -448,7 +440,7 @@ these steps:
 8. Hit done button, a new slide will appear in slideshow timeline
 
 How to edit a slide in Slideshow?
-=================================
+---------------------------------
 
 Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To edit a slide in slideshow, follow
@@ -473,7 +465,7 @@ these steps:
 9. Hit done button, an updated slide will appear in slideshow timeline
 
 How to delete a slide in Slideshow?
-===================================
+-----------------------------------
 
 Slideshow allows users to generate a slideshow of already created
 screens with custom time duration. To delete a slide in slideshow,
@@ -498,8 +490,11 @@ follow these steps:
 
 ============================================================
 
-How to set/add a display in EasyD?
+Display
 ==================================
+
+How to set/add a display in EasyD?
+----------------------------------
 
 After creating a screen from templates, user has to attach a display
 device to display the screen.To set/add a display, follow these steps:
@@ -523,7 +518,7 @@ A dialogue box will appear. Set the following details
 5. Hit save button, A new display will appear in list
 
 How to edit a display in EasyD?
-===============================
+-------------------------------
 
 After creating a screen from templates, user has to attach a display
 device to display the screen.To set/add a display, follow these steps:
@@ -550,7 +545,7 @@ A dialogue box will appear, update the details
 4. Hit save button, display will be updated
 
 How to delete a display in EasyD?
-=================================
+---------------------------------
 
 1. Login to *EasyD app*
 
@@ -564,7 +559,7 @@ How to delete a display in EasyD?
 5. Confirm deletion, your display will be deleted
 
 How to pair a display in EasyD?
-===============================
+-------------------------------
 
 Before pairing a display, the user has to add a display. While adding a
 display, user has a choice to pair it, but they can also pair and unpair
@@ -585,7 +580,7 @@ later
 6. Click pair button, pairing process will be completed
 
 How to unpair a display in EasyD?
-=================================
+---------------------------------
 
 Before pairing a display, the user has to add a display. While adding a
 display user has a choice to pair it, but they can also pair and unpair
@@ -604,8 +599,11 @@ later
 
 ============================================================
 
+Users
+=====
+
 How to add users' roles in EasyD?
-=================================
+----------------------------------
 
 To manage workload, EasyD has a feature to add multiple users with
 different roles to manage workload easily. To add user, follow these
@@ -626,7 +624,7 @@ A dialogue box will appear. Set the following details
 6. Hit save button, a new user will be created
 
 How to edit users' roles in EasyD?
-==================================
+----------------------------------
 
 To manage workload, EasyD has a feature to add multiple users with
 different roles to manage workload easily. To edit user’s role follow
@@ -646,7 +644,7 @@ these simple steps
 6. Hit update button, user’s role will be updated
 
 How to delete users' roles in EasyD?
-====================================
+------------------------------------
 
 To manage workload, EasyD has a feature to add multiple users with
 different roles to manage workload easily. To delete user’s role, follow
@@ -665,8 +663,27 @@ these simple steps
 
 ============================================================
 
+Site
+====
+
+How to add a new site?
+----------------------
+
+To categorize and manage screens, EasyD has added a site option, under
+which every site user can create multiple screens.
+
+1. Go to site name dropdown in top-left corner
+
+| 2. Click drop down, and click add new site option with + icon.
+| 3. Enter name for site
+
+4. Enter address and select site type
+
+5. Hit submit, a new site will be created. You can switch b/w site by
+clicking on same dropdown described at (1)
+
 How can I edit my site information in EasyD?
-============================================
+--------------------------------------------
 
 After creating a site, users can edit site information anytime. To edit
 site information, just follow these steps
@@ -680,7 +697,7 @@ site information, just follow these steps
 4. Hit save button on right, information will be updated
 
 How can I edit/update my site name in EasyD?
-============================================
+--------------------------------------------
 
 After creating a site, users can edit site information anytime. To edit
 site name, just follow these steps
@@ -694,7 +711,7 @@ site name, just follow these steps
 4. Hit save button in right, site name will be updated
 
 How can I edit/update my site address in EasyD?
-===============================================
+-----------------------------------------------
 
 After creating a site, users can edit site information anytime. To edit
 site address just follow these steps
@@ -708,7 +725,7 @@ site address just follow these steps
 5. Hit save button on right, site address will be updated
 
 How can I edit/update my site category in EasyD?
-================================================
+------------------------------------------------
 
 After creating a site, users can edit site information anytime. To edit
 site category, just follow these steps
@@ -721,8 +738,8 @@ site category, just follow these steps
 
 4. Hit save button on right, site category will be updated
 
-How can I edit/update time format ?
-===================================
+How can I edit/update time format?
+-----------------------------------
 
 EasyD offers both 12h and 24h time format so users can manage time
 according to their audience needs. To switch time format, follow these
@@ -737,8 +754,8 @@ steps
 
 4. Hit save button in right, time format will be updated
 
-How can I update/change input language in EasyD ?
-=================================================
+How can I update/change input language in EasyD?
+------------------------------------------------
 
 Currently EasyD offers upto Three input languages. Users can switch
 between anytime. To change language, follow these steps
@@ -751,8 +768,8 @@ between anytime. To change language, follow these steps
 
 4. Hit save button on right, language will be updated
 
-How can I delete a site in EasyD ?
-==================================
+How can I delete a site in EasyD?
+---------------------------------
 
 Deleting a site without attention can lead to important data loss. Be
 careful while deleting any site. Follow the steps below to delete a site
@@ -799,11 +816,10 @@ Our team will make every effort to respond to user feedback.
    :width: 0.30729in
    :height: 0.30729in
 
- index
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   .. :maxdepth: 2
+   .. :caption: Contents:
    Home <self>
 
 .. Indices and tables
