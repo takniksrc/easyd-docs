@@ -14,8 +14,8 @@ Contents
    noticeScreen
    infoScreen
    salatPanelScreen
-   screen
    slideshow
+   screen
    mediaGallery
    display
    users
