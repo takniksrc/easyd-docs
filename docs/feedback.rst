@@ -1,5 +1,8 @@
+Feedback
+=========
+
 How to give feedback in EasyD?
-==============================
+-------------------------------
 
 User’s feedback will let us improve the customer experience with EasyD.
 We warmly welcome feedbacks

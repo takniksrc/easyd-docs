@@ -1,5 +1,8 @@
+Logout
+=======
+
 How to Logout of EasyD?
-=======================
+------------------------
 
 1. Open `EasyD app <https://app.easyd.io/>`__
 
