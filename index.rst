@@ -806,7 +806,9 @@ Our team will make every effort to respond to user feedback.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   Home <self>
+   media_screen
+   api
 
 
 Indices and tables
