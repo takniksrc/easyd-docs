@@ -9,19 +9,19 @@ Contents
    .. :maxdepth: 2
    .. :caption: Contents:
    Get Started <self>
-   .. mediaScreen
-   .. productScreen
-   .. noticeScreen
-   .. infoScreen
-   .. salatPanelScreen
-   .. slideshow
-   .. screen
-   .. mediaGallery
-   .. display
-   .. users
-   .. site
-   .. feedback
-   .. logout
+   mediaScreen
+   productScreen
+   noticeScreen
+   infoScreen
+   salatPanelScreen
+   slideshow
+   screen
+   mediaGallery
+   display
+   users
+   site
+   feedback
+   logout
 
 
 .. Indices and tables
