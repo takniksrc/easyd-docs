@@ -8,7 +8,7 @@ Contents
 .. toctree::
    .. :maxdepth: 2
    .. :caption: Contents:
-   Home <self>
+   Get Started <self>
    mediaScreen
    productScreen
    noticeScreen
