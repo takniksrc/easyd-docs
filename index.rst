@@ -807,7 +807,6 @@ Our team will make every effort to respond to user feedback.
    :maxdepth: 2
    :caption: Contents:
    Home <self>
-   mediascreen
 
 .. Indices and tables
 .. ==================
