@@ -65,6 +65,38 @@ The Publish Button in EasyD allows you to switch between "Public" and "Private" 
 - User limit for public screens varies.
 
 
+# Salat panel page
+
+## Dual Column
+### Textual Help
+Dual column support enables the possibility of different Jamaat times from actual prayer times. This is a very useful feature for mosques where Jamaat may not be held at the same time when prayer time starts due to any reason. In the case of the dual column, calendar or location-based time is used for prayer times while Jamaat time must be set manually.
+### Videos 
+Dual column Youtube link
+
+## Location based salat time
+### Textual Help
+You can configure the location of the praying place in order to automatically calculate prayer times. Please note that this calculation is not very accurate for too high latitudes, for example, nordic countries. But it works fairly perfectly for other locations around the globe. 
+
+You need to provide city, timezone, and method according to your fiqh to let the system calculate it for you. 
+### Videos 
+Locations Youtube link
+
+## Designs
+Templates and skins help you choose designs of the screen as you like.
+
+**Templates** give you options for different layouts and structures of the contents.
+
+**Skins** give you the option to select different colors and other variations of the sample **template**.
+
+## Calendar based salat time
+The prayer calendar is a way to set perpetual time for prayers that can work for each year. You may develop this prayer calendar of your own and upload it or use an existing one for your city or location and use that. 
+
+The prayer calendar must be in a fixed format which is provided in Word document format. The document has complete instructions for filling which must be followed. If the upload document operation fails then you may send the document to the support email address in order to get it validated. 
+### Videos 
+Calendar Youtube link
+
+
+
 
 
 
