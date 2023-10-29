@@ -32,6 +32,10 @@ The system supports the following resolutions for now,
 1. Full HD (1920x1080)
 2. 4K (3840x2160)
 
+## Add Display - Pair display device
+### Text Help
+Install *EasyD Player* on your Android TV or other supported device to get the PIN code and enter here. The physical display will instantly show the selected screen content after saving this configuration.  
+
 # Users page
 Below is for Users page
 
